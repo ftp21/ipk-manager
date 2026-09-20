@@ -1,0 +1,9 @@
+Package: enigma2-plugin-extensions-example
+Version: 0.0.1
+Section: extensions
+Priority: optional
+Architecture: all
+Maintainer: ftp21 <https://github.com/ftp21>
+Source: https://github.com/ftp21/example-package
+Description: Plugin di esempio
+ Cartella di esempio che mostra la struttura attesa da build-ipk.sh.
